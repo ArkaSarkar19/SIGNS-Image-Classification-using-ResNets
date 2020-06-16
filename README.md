@@ -4,11 +4,11 @@ I have used the the following Architecture :  CONV2D -> BATCHNORM -> RELU -> MAX
 
 CONVBLOCK AND IDBLOCK are implemented in model.py </br>
 
-# IDBLOCK  </br>
+### IDBLOCK  </br>
 ![IDBLOCK](https://github.com/ArkaSarkar19/SIGNS-Image-Classification-using-ResNets/blob/master/readme_images/idblock.png?raw=true)
 
 
-# CONVBLOCK  </br>
+### CONVBLOCK  </br>
 ![IDBLOCK](https://github.com/ArkaSarkar19/SIGNS-Image-Classification-using-ResNets/blob/master/readme_images/convblock.png?raw=true)
  </br> 
  
